@@ -28,4 +28,4 @@
 1. Клонировать проект
 1. Переименовать файл example.env в корне проекта в .env и прописать в нем соединение с Базой данных
 1. В консоли запустить composer install
-1. После запустить миграции командой phalcon migration run (phalcon должен быть установлен в системе подробнее в [основной документации] https://docs.phalcon.io/4.0/ru-ru/installation)
+1. После запустить миграции командой phalcon migration run (phalcon должен быть установлен в системе подробнее в основной документации https://docs.phalcon.io/4.0/ru-ru/installation)
